@@ -2,5 +2,5 @@
 let w = 68;
 let h = 1.7;
 
-let bmi
-console.log(w/(h*h));
+let bmi = w / (h * h);
+console.log(bmi);
