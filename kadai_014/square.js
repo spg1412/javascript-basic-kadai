@@ -1,4 +1,4 @@
-// Testing functions with Squares
+// 〇Testing functions with Squares
 
 // function nearestSq(n){
 //     let numberToSquare = 1;
@@ -14,23 +14,23 @@
 //     return squared;
 // }
 
-// Descriptions to the assignment
-//Define a function that multiplies the given argument num and prints the value
+// 〇Descriptions to the assignment
+//〇Define a function that multiplies the given argument num and prints the value
 
 const addnum = (num) => {
     //console.log(num*10);
   }
   
-// Call a function and pass a number as an argument
+// 〇Call a function and pass a number as an argument
   //addnum(10);
   
-  // Description found in search *console tab*
+  // 〇Description found in search *console tab*
   
 const square = (num) => {
     return num ** 2;
 };
   
-//Setting the number to 100
+//〇Setting the number to 100
   
 const result = square(10);
   console.log(result);
